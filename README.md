@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=header&text=Hi%20there!👋&fontSize=60&animation=fadeIn)
 <h2  align="center">  <i> I'm jayoung!</i> </h2>
 <p  align="center"><i>I'm a <b>growing developer</b>:)</i></p>
-
 <h3 align="center"><i>Tech Stack 💻</i></h3>
 <p  align="center"><i>Techs that I've been at least once🧐☝</i><p>
-
 <p align="center">
   <img  align="center" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
   <img  align="center" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
