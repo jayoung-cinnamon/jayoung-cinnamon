@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=header&text=Hi%20there!👋&fontSize=60&animation=fadeIn)
 <h2  align="center">  <i> I'm jayoung!</i> </h2>
 <p  align="center"><i>I'm a <b>growing developer</b>:)</i></p>
@@ -25,7 +26,7 @@
 </br>
 
 <h3 align="center"><i>Contact Me📌</i></h3>
-<p align="center" style="text-decoration:none">
+<p align="center">
  
  
  <a href="https://diary-of-lemon.tistory.com/">
@@ -33,6 +34,7 @@
 </a>
   <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
   <img  align="center" src="https://img.shields.io/badge/LInkedIn-darkblue?style=flat-square&logo=LInkedIn&logoColor=white"/>
+  </p>
 </br>
 
 
