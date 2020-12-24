@@ -26,7 +26,7 @@
 
 <h3 align="center"><i>Contact Me📌</i></h3>
 <p align="center">
- <a href="https://wwww.naver.com"> <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/> </a>
+ <a href="https://www.naver.com/"> <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/> </a>
   <img  align="center" src="https://img.shields.io/badge/LInkedIn-darkblue?style=flat-square&logo=LInkedIn&logoColor=white"/>
 </br>
 
