@@ -26,6 +26,8 @@
 
 <h3 align="center"><i>Contact Me📌</i></h3>
 <p align="center">
+ 
+  <img  align="center" src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
   <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
   <img  align="center" src="https://img.shields.io/badge/LInkedIn-darkblue?style=flat-square&logo=LInkedIn&logoColor=white"/>
 </br>
