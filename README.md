@@ -25,7 +25,7 @@
 </br>
 
 <h3 align="center"><i>Contact Me📌</i></h3>
-<p align="center" style="text-decoration:underline">
+<p align="center" style="text-decoration:none">
  
  
  <a href="https://diary-of-lemon.tistory.com/">
