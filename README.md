@@ -27,7 +27,7 @@
 <h3 align="center"><i>Contact Me📌</i></h3>
 <p align="center">
  
- <a href="https://diary-of-lemon.tistory.com/">
+ <a href="https://diary-of-lemon.tistory.com/" style="text-decoration:none">
    <img  align="center" src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
 </a>
   <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
