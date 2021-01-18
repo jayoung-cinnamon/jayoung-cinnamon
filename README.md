@@ -29,12 +29,14 @@
 <p align="center">
  
  
- <a href="https://diary-of-lemon.tistory.com/">
+<a href="https://diary-of-lemon.tistory.com/">
    <img  align="center" src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
 </a>
+<a href="https://velog.io/@lemon-ginger">
   <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
+</a>
   <img  align="center" src="https://img.shields.io/badge/LInkedIn-darkblue?style=flat-square&logo=LInkedIn&logoColor=white"/>
-  </p>
+</p>
 </br>
 
 
