@@ -35,7 +35,7 @@
 <a href="https://velog.io/@lemon-ginger">
   <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
 </a>
-  <img  align="center" src="https://img.shields.io/badge/LInkedIn-darkblue?style=flat-square&logo=LInkedIn&logoColor=white"/>
+  
 </p>
 </br>
 
