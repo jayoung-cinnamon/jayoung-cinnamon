@@ -17,10 +17,7 @@
   <img  align="center" src="https://img.shields.io/badge/Java-midnightblue?style=flat-square&logo=Java&logoColor=white"/>
   <img  align="center" src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
-<p align="center">
-  <img  align="center" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
-  <img  align="center" src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white"/>
-</p>
+
 <p align="center">
   <img  align="center" src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white"/>
 </br>
