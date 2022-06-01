@@ -1,40 +1,42 @@
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=header&text=Hi%20there!&fontSize=60&animation=fadeIn) -->
-<h2  align="center">  <i> I'm jayoung!</i> </h2>
-<p  align="center"><i>I'm a <b>growing developer</b>:)</i></p>
-<h3 align="center"><i>Tech Stack 💻</i></h3>
-<p  align="center"><i>Techs that I've been at least once🧐☝</i><p>
-<p align="center">
-  <img  align="center" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img  align="center" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img  align="center" src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/>
+<h2 >  <i>Hello there! I'm Frotnend developer jayoung👩🏻‍💻</i> </h2>
+<p ><i>I have experinece 1year of web development and interior design</i></p>
+<p ><i>I enjoying running, reading a book and writing a diary </i></p>
+<p ><i>Let's make something cool💙</i></p>
+<h3 ><i> 💻 Tech Stack </i></h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img   src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img  src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 </p>
-<p align="center">
-  <img  align="center" src="https://img.shields.io/badge/Html-red?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img  align="center" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/><br/>
+<p>
+  <img  src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img   src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
 </p>
-<p align="center">
-  <img  align="center" src="https://img.shields.io/badge/Java-midnightblue?style=flat-square&logo=Java&logoColor=white"/>
-  <img  align="center" src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
+<p >
+  <img  src="https://img.shields.io/badge/Java-db4838?style=flat-square&logo=Java&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img  align="center" src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white"/>
+<h3 ><i> 🔨 Tools </i></h3>
+<p>
+  <img  src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+ </p>
 </br>
 
-<h3 align="center"><i>Contact Me📌</i></h3>
-<p align="center">
+<h3><i>Contact Me📌</i></h3>
+<p>
  
  
 <a href="https://diary-of-lemon.tistory.com/">
-   <img  align="center" src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
+   <img src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
 </a>
 <a href="https://velog.io/@lemon-ginger">
-  <img  align="center" src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
 </a>
   
 </p>
 </br>
 
-<!-- 
-![footer](https://capsule-render.vercel.app/api?api?type=wave&color=timeAuto&height=150&section=footer) -->
