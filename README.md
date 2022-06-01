@@ -1,6 +1,6 @@
 
 <h2 >  <i>Hello there! I'm Frontend developer jayoung👩🏻‍💻</i> </h2>
-<p ><i>I have experience 1year of web development and interior design</i></p>
+<p ><i>I have 1 year experience in web development and interior design.</i></p>
 <p ><i>I enjoying running, reading a book and writing a diary </i></p>
 <p ><i>Let's make something cool💙</i></p>
 <h3 ><i> 💻 Tech Stack </i></h3>
