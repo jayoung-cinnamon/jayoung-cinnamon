@@ -1,7 +1,7 @@
 
-<h2 >  <i>Hello there! I'm Frontend developer jayoung👩🏻‍💻</i> </h2>
-<p ><i>I have 1 year experience in web development and interior design.</i></p>
-<p ><i>I enjoying running, reading a book and writing a diary.</i></p>
+<div align="center">
+<h2 >  Hello there! I'm Frontend developer jayoung👩🏻‍💻</h2>
+<p >I enjoying running, reading a book and writing a diary.</p>
 
 <h3 ><i> 💻 Tech Stack </i></h3>
 <p>
@@ -29,7 +29,6 @@
 <h3><i>Contact Me📌</i></h3>
 <p>
  
- 
 <a href="https://diary-of-lemon.tistory.com/">
    <img src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
 </a>
@@ -38,5 +37,6 @@
 </a>
   
 </p>
+</div>
 </br>
 
