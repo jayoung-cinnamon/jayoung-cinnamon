@@ -32,9 +32,9 @@
 <a href="https://diary-of-lemon.tistory.com/">
    <img src="https://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=white"/>
 </a>
-<a href="https://velog.io/@lemon-ginger">
+<!-- <a href="https://velog.io/@lemon-ginger">
   <img src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=V&logoColor=white"/>
-</a>
+</a> -->
   
 </p>
 </div>
